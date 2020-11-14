@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cra1-template.iml" filepath="$PROJECT_DIR$/.idea/cra1-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/duckietown-augreal-apriltag.iml" filepath="$PROJECT_DIR$/.idea/duckietown-augreal-apriltag.iml" />
     </modules>
   </component>
 </project>
